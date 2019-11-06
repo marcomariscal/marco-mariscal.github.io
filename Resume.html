@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Marco Resume</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Marco Mariscal</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpeg" alt="">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#interests">Interests</a>
+        </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#awards">Awards</a>
+        </li> -->
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-0">Marco
+          <span class="text-primary">Mariscal</span>
+        </h1>
+        <div class="subheading mb-5">237 Duffield St. Apt. 15C · Brooklyn, NY 11201 · (619) 884-4881 ·
+          <a href="mailto:name@email.com">marco.a.mariscal@gmail.com</a>
+        </div>
+        <p class="lead mb-5">Experienced in scripting, blockchain, and digital marketing.</p>
+        <div class="social-icons">
+          <a href="https://www.linkedin.com/in/marcomariscal">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a href="https://github.com/marcomariscal/marco-mariscal.github.io">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://www.datacamp.com/profile/marcoamariscal">
+            <i class="fab fa-python"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Senior Paid Search Strageist</h3>
+            <div class="subheading mb-3">ForwardPMX</div>
+            <p>Manage reporting and data capabilities for a team of 20,
+            utilizing any tools necessary to automate and streamline reporting</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">February 2019 - Present</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Travel</h3>
+            <div class="subheading mb-3">Asia</div>
+            <p>Traveled throughout Southeast Asia, Korea, and Japan.</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2018 - January 2019</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Manager, Paid Search</h3>
+            <div class="subheading mb-3">Wavemaker Global</div>
+            <p>Manager of a team of three, working on portfolios between $5-10 million</p>
+            <p>Teach the rest of the team the fundamentals of paid search and
+            proper analysis</p>
+            <p>Lead the daily communication with the client</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2017 - August 2018</span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
+          <div class="resume-content">
+            <h3 class="mb-0">Senior Analyst</h3>
+            <div class="subheading mb-3">Mediavest</div>
+            <p>Act as manager of large paid search account, teaching paid search
+            to the rest of the team and carrying out various strategies to improve account performance</p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">don't remember</span>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Dartmouth College</h3>
+            <div class="subheading mb-3">Bachelor of Arts</div>
+            <div>Economics, Minor in Neuroscience</div>
+            <div>4 year Varsity Letterman, Baseball</div>
+            <div>Sigma Alpha Epsilon Fraternity</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">September 2008 - May 2012</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Flow Token Exchange</h3>
+            <div class="subheading mb-3">A cryptocurrency exchange</div>
+            <img class="img-fluid mx-auto mb-2" src="img/portfolio.png" alt="">
+            <div>A cryptocurrency exchange utilizing the Flow token; testing smart contracts and UI interaction on the blockchain. Check it out <a href="https://flow-token-exchange.herokuapp.com/">here.</a>.</div>
+          </div>
+        </div>
+
+        <!-- <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div class="resume-content">
+            <h3 class="mb-0">Blockchain Project #2</h3>
+            <div class="subheading mb-3">Project Tagline</div>
+            <img class="img-fluid mx-auto mb-2" src="img/portfolio.jpg" alt="">
+            <div>Project Description: This is the most amazing blockchain project ever. Check it out with this <a href="">link</a>.</div>
+          </div>
+        </div> -->
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
+      <div class="w-100">
+        <h2 class="mb-5">Skills</h2>
+
+        <div class="subheading mb-3">Programming Languages &amp; Tools</div>
+        <ul class="list-inline dev-icons">
+          <li class="list-inline-item">
+            <i class="fab fa-html5"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-css3-alt"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-js-square"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-python"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-react"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fab fa-node-js"></i>
+          </li>
+          <li class="list-inline-item">
+            <i class="fas fa-database"></i>
+          </li>
+        </ul>
+        <!-- <div class="subheading mb-3">Workflow</div>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Mobile-First, Responsive Design</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Cross Browser Testing &amp; Debugging</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Cross Functional Teams</li>
+          <li>
+            <i class="fa-li fa fa-check"></i>
+            Agile Development &amp; Scrum</li>
+        </ul>
+      </div> -->
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
+      <div class="w-100">
+        <h2 class="mb-5">Interests</h2>
+        <p>Weightlifting, reading, cooking.</p>
+        <p>Automating everything.</p>
+        <p>Helping people through blockchain, and improving the
+        finance game through cryptocurrency</p>
+      </div>
+    </section>
+
+<!--     <hr class="m-0"> -->
+
+  <!--   <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+      <div class="w-100">
+        <h2 class="mb-5">Awards &amp; Certifications</h2>
+        <ul class="fa-ul mb-0">
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            ...</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            ...</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            1<sup>st</sup>
+            ...</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            1<sup>st</sup>
+            ...</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            2<sup>nd</sup>
+            ...</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            1<sup>st</sup>
+            ...</li>
+          <li>
+            <i class="fa-li fa fa-trophy text-warning"></i>
+            3<sup>rd</sup>
+            ...</li>
+        </ul>
+      </div>
+    </section> -->
+
+  </div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.js"></script>
+
+</body>
+
+</html>
